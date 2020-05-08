@@ -1,0 +1,10 @@
+*************
+Configuration
+*************
+
+Theme options
+=============
+
+The following options
+hello 
+one two three
