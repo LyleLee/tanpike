@@ -1,0 +1,13 @@
+.highlight {
+  background: #EEEEEE;
+}
+
+.bs-sidenav {
+  background-color: #EEEEEE;
+}
+
+.bs-sidenav .nav > li > a {
+	display: block;
+	color: #111111;
+	padding: 5px 20px;
+}
