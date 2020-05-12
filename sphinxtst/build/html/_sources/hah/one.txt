@@ -6,4 +6,4 @@ Theme options
 =============
 
 The following options
-hello 
+i have new options yes 
